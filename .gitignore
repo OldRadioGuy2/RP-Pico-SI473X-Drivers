@@ -1,0 +1,10 @@
+/C++/.vscode/
+/C++/build/
+/C++/Hardware/
+/C++/*.zip
+/python/.micropico
+/python/.venv/
+/python/.vscode/
+/python/Backup/
+/python/python.code-workspace
+/C++/si4735/ArduinoShim.cpp
